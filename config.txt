@@ -95,7 +95,7 @@ stayinchannel = false
 // to any number less than or equal to zero, there is no maximum time length. This time
 // restriction applies to songs loaded from any source.
 
-maxtime = 10
+maxtime = 300
 
 
 // This sets an alternative folder to be used as the Playlists folder
