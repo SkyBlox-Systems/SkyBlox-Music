@@ -1,2 +1,6 @@
 sudo apt-get install default-jre
+<<<<<<< HEAD
 Sudo nohup java -Dnogui=true -jar SkyBlox-Music.jar
+=======
+sudo nohup java -Dnogui=true -jar JMusicBot-0.2.8-Linux.jar
+>>>>>>> 952f9c489718ee9dfa9c93eb19452b90eda759bd
