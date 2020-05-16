@@ -88,14 +88,14 @@ npimages = false
 // Keep in mind that being connected to a voice channel uses additional bandwith,
 // so this option is not recommended if bandwidth is a concern.
 
-stayinchannel = true
+stayinchannel = false
 
 
 // This sets the maximum amount of seconds any track loaded can be. If not set or set
 // to any number less than or equal to zero, there is no maximum time length. This time
 // restriction applies to songs loaded from any source.
 
-maxtime = 0
+maxtime = 10
 
 
 // This sets an alternative folder to be used as the Playlists folder
