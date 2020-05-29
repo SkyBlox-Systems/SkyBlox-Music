@@ -1,0 +1,2 @@
+sudo apt-get install default-jre
+nohup java -Dnogui=true -jar JMusicBot-0.2.8-Linux.jar
