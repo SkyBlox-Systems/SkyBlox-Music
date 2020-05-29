@@ -1,4 +1,0 @@
-sudo apt-get install default-jre
-
-sudo nohup java -Dnogui=true -jar SkyBlox-Music.jar
-
