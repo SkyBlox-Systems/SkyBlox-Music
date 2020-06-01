@@ -13,8 +13,7 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = NjMzNzgxMDk4NzE0NzU5MTc4.XtE6sg.y5SxIXLQeyg9x8rxegCm1xcHJgQ
-
+token = NjMzNzgxMDk4NzE0NzU5MTc4.Xr25Mw.t-dPPF0QNJg1gVtYLwXLyeJxqFQ
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
@@ -96,7 +95,7 @@ stayinchannel = false
 // to any number less than or equal to zero, there is no maximum time length. This time
 // restriction applies to songs loaded from any source.
 
-maxtime = 20
+maxtime = 3600
 
 
 // This sets an alternative folder to be used as the Playlists folder
