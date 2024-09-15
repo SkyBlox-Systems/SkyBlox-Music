@@ -14,7 +14,7 @@ module.exports = {
 	/** 
 	 * URL to the preferred database (Prisma ORM)
 	 * @type {string} */
-	db_url: "mongodb+srv://SkyBloxMusic:sqeq7Ssc9MDMRdqPKqN5KDhEE44CRsFD7spTYp4x@main.hkwzs.mongodb.net/SkyBloxMusic",
+	db_url: "....",
 
 	/**
 	 * Secret information, use the ENV file to store these values if possible
@@ -26,7 +26,7 @@ module.exports = {
 	/** 
 	 * Token for bot login
 	 * @type {string} */
-	token: process.env.TOKEN || "MTIzMDc4MDA0OTc5MjMwNzIwMA.GAY1Re.fkkpZcO7LLfRz70TvdtxiZ19-vmRekgeWzsbZo",
+	token: process.env.TOKEN || "",
 	/** 
 	 * ID of the bot
 	 * @type {string} */
@@ -34,7 +34,7 @@ module.exports = {
 	/** 
 	 * Secret Token for bot login
 	 * @type {string} */
-	clientSecret: process.env.CLIENTSECRET || "e6ZvP36by3S4t1YUptocjJjZMWIXOYAB",
+	clientSecret: process.env.CLIENTSECRET || "",
 
 	/**
 	 * API configuration
